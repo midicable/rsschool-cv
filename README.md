@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV on GitHub Pages] (https://midicable.github.io/rsschool-cv/cv)
