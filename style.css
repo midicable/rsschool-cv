@@ -1,6 +1,7 @@
 body {
   width:        797px;
   margin-top:   0px;
+  margin-bottom: 0px;
   margin-left:  auto;
   margin-right: auto;
   font-family: “Segoe UI”, Frutiger, “Frutiger Linotype”, “Dejavu Sans”, “Helvetica Neue”, Arial, sans-serif;
@@ -11,14 +12,28 @@ h1, h2 {
   letter-spacing: 0.03em;
 }
 
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px; 
+  padding-top:  40px;
+  margin-left:  40px;  
+}
+
 h2 {
   margin-top:     0px;
 }
 
+div#table-content {
+  display:        table;
+} 
+
+div#table-row {
+  display:        table-cell;
+}
+
 aside {
-  float:            left;
-  color:            whitesmoke;
-  background-color: dimgrey;
+  display:          table-cell;
+  color:            whitesmoke; 
 }
 
 aside h2 {
@@ -50,27 +65,18 @@ div#cv_photo {
   background-color: #343945;
 }
 
-header {
-  margin-left:  240px;
-  margin-bottom: 0px; 
-  padding-top:  40px;
-  padding-bottom: 40px;
-  padding-left: 40px;
-}
-
-header h1 {
-  margin-right: 12.5em;
+header#main-header h1 {
+  margin: 0px;
   padding-bottom: 3px;
   border-bottom: 1px solid gray;
 }
 
-header h2 {
-  line-height:  0em;
-  font-weight:  100;
-  color:        dimgrey;
+header#main-header h2 {
 }
 
 main {
+  display:     table-cell;
+  vertical-align: top;
   margin-top: 0px;
   margin-left:  240px;
 }
@@ -82,6 +88,14 @@ main h2 {
   background-color: #ebebeb;
 }
 
+h2#role {
+  padding-top: 3px;
+  background-color: white;  
+  font-weight:  100;
+  color:        dimgrey;
+}
+
+
 main p#about-me {
   padding-left: 40px;
   line-height: 1.5em;
@@ -89,7 +103,7 @@ main p#about-me {
 
 main ul {
   list-style-type: disc;
-  padding-left: 40px;
+  padding-left:     40px;
 }
 
 p.work-experience-desc {
@@ -109,6 +123,5 @@ section#education {
 }
 
 footer {
-  
   background-color: dimgrey;
 }
