@@ -25,6 +25,7 @@ h2 {
 
 div#table-content {
   display:        table;
+  background-color: ghostwhite;
 } 
 
 div#table-row {
@@ -90,8 +91,8 @@ main h2 {
 
 h2#role {
   padding-top: 3px;
-  background-color: white;  
   font-weight:  100;
+  background-color: ghostwhite;
   color:        dimgrey;
 }
 
@@ -123,5 +124,25 @@ section#education {
 }
 
 footer {
-  background-color: dimgrey;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color:             whitesmoke;
+  background-color: #424753;
+  text-align:       center;
+  font-size:        90%;
+}
+
+footer p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+img#github-ref, img#rsschool-ref {
+  padding-right: 10px;
+}
+
+div#refs {
+  float: right;
 }
