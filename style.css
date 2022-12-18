@@ -1,11 +1,11 @@
 body {
-  width:        797px;
-  margin-top:   0px;
+  width:         797px;
+  margin-top:    0px;
   margin-bottom: 0px;
-  margin-left:  auto;
-  margin-right: auto;
-  font-family: “Segoe UI”, Frutiger, “Frutiger Linotype”, “Dejavu Sans”, “Helvetica Neue”, Arial, sans-serif;
-  font-size:    small;
+  margin-left:   auto;
+  margin-right:  auto;
+  font-family:   “Segoe UI”, Frutiger, “Frutiger Linotype”, “Dejavu Sans”, “Helvetica Neue”, Arial, sans-serif;
+  font-size:     small;
 }
 
 h1, h2 {
@@ -13,14 +13,14 @@ h1, h2 {
 }
 
 h1 {
-  margin-top: 0px;
+  margin-top:    0px;
   margin-bottom: 0px; 
   padding-top:  40px;
   margin-left:  40px;  
 }
 
 h2 {
-  margin-top:     0px;
+  margin-top: 0px;
 }
 
 div#table-content {
@@ -30,15 +30,15 @@ div#table-content {
 } 
   
 aside {
-  display:          table-cell;
-  color:            whitesmoke; 
+  display: table-cell;
+  color:   whitesmoke; 
 }
 
 aside h2 {
-  margin-bottom: 0px;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 40px;
+  margin-bottom:    0px;
+  padding-top:      2px;
+  padding-bottom:   2px;
+  padding-left:     40px;
   background-color: #424753;
 }
 
@@ -56,57 +56,67 @@ aside ul li {
 }
 
 div#cv_photo {
-  width:      240px;
-  height:     340px;
-  margin:     0px;
-  padding:    0px;
+  width:            240px;
+  height:           340px;
+  margin:             0px;
+  padding:            0px;
   background-color: #343945;
 }
 
 header#main-header h1 {
-  margin: 0px;
+  margin:         0px;
   padding-bottom: 3px;
-  border-bottom: 1px solid gray;
-}
-
-header#main-header h2 {
+  border-bottom:  1px solid gray;
 }
 
 main {
-  display:     table-cell;
+  display:        table-cell;
   vertical-align: top;
-  margin-top: 0px;
+  margin-top:     0px;
   margin-left:  240px;
 }
 
 main h2 {
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 40px;
+  padding-top:      2px;
+  padding-bottom:   2px;
+  padding-left:     40px;
   background-color: #ebebeb;
 }
 
 h2#role {
-  padding-top: 3px;
-  font-weight:  100;
+  padding-top:      3px;
+  font-weight:      100;
   background-color: ghostwhite;
-  color:        dimgrey;
+  color:            dimgrey;
 }
 
+main p {
+  padding-right: 30px;
+  line-height:  1.5em;
+}
 
 main p#about-me {
   padding-left: 40px;
-  line-height: 1.5em;
 }
 
 main ul {
-  list-style-type: disc;
+  list-style-type:  disc;
   padding-left:     40px;
 }
 
-p.work-experience-desc {
-  text-decoration: none;
-} 
+code {
+    display:     block;
+    margin-left: 40px;
+    padding:     1em 1.5em;
+    background:  #f4f4f4;
+    color:       #666;
+    border:      1px solid #ddd;
+    border-left: 3px solid #f36d33;
+    font-family: monospace;
+    font-size:   15px;
+    line-height: 1.6em;
+    max-width:   70%;
+}
 
 section#contacts {
   background-color: #343945;
@@ -121,23 +131,23 @@ section#education {
 }
 
 footer {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top:      15px;
+  padding-bottom:   15px;
   background-color: #424753;
   text-align:       center;
   font-size:        90%;
 }
 
 footer p {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-left: 200px;
+  margin-top:     0px;
+  margin-bottom:  0px;
+  margin-left:  200px;
   margin-right: 200px;
-  color:             whitesmoke;
+  color:        whitesmoke;
 }
 
 img#github-ref, img#rsschool-ref {
-  padding-right: 10px;
+  padding-right: 15px;
 }
 
 div#refs {
