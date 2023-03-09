@@ -24,3 +24,11 @@ for (let i = 0; i <= 3; i++) {
 }
 ``` 
 
+---
+## Work experience
+---
+
+No work expirience, but have some pet-projects on GitHub.
+- [Audiolibrary microservice application (GoLang)] (https://github.com/midicable/audiolibrary)
+- [Simple Python project] (https://github.com/midicable/Simple-SQLite-Project)
+
