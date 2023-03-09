@@ -32,3 +32,10 @@ No work expirience, but have some pet-projects on GitHub.
 - [Audiolibrary microservice application (GoLang)] (https://github.com/midicable/audiolibrary)
 - [Simple Python project] (https://github.com/midicable/Simple-SQLite-Project)
 
+---
+## Contacts
+---
+
+* Phone: +375 (25) 516 18 19
+* Telegram: @sixteenswishers
+* E-mail: bogdan.astronomy@gmail.com
