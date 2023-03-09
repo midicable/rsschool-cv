@@ -14,3 +14,13 @@ Ispiring front-end developer. Very passionate about designing web pages and user
 * Python
 * Adobe Photoshop
 
+---
+## Code examples
+---
+
+``` JavaScript
+for (let i = 0; i <= 3; i++) {
+  console.log('I love RSS!');
+}
+``` 
+
