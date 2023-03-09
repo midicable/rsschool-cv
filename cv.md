@@ -39,3 +39,9 @@ No work expirience, but have some pet-projects on GitHub.
 * Phone: +375 (25) 516 18 19
 * Telegram: @sixteenswishers
 * E-mail: bogdan.astronomy@gmail.com
+
+---
+## Languages
+---
+- Russian - Native
+- English - Upper Intermediate (B2)
