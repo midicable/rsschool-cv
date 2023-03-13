@@ -1,5 +1,5 @@
 ## Resume
-Ispiring front-end developer. Very passionate about designing web pages and user interfaces. Enjoy constantly studying something new.
+Hi, my name's Bogdan, I'm ispiring front-end developer. Very passionate about designing web pages and user interfaces. Enjoy constantly studying something new.
 
 ## Skills
 - HTML/CSS
