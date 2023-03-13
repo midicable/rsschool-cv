@@ -7,7 +7,7 @@ Ispiring front-end developer. Very passionate about designing web pages and user
 - HTML/CSS
 - JavaScript
 - Python
-- Adobe Photoshop
+- Photoshop
 
 ## Code examples
 ``` JavaScript
